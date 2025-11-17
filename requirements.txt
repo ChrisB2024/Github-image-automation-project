@@ -1,0 +1,12 @@
+# Python dependencies for GitHub Image Automation Project
+
+# HTTP requests for fetching images
+requests>=2.31.0
+
+# Twilio SDK for SMS notifications
+twilio>=8.10.0
+
+# Standard library modules (already included in Python):
+# - os
+# - json
+# - hashlib
